@@ -1,2 +1,9 @@
 # RideShareApp
-A repository containing a web app project for organising shared rides (developed in 2020).
+A repository containing the original files for a ride-sharing web app project (developed in 2020).
+
+Includes 4 documents:
+
+* Original specification (provided by client)
+* Software Requirement Specification
+* Software Design Specification
+* Software Test Plan
