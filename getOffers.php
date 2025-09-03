@@ -1,7 +1,7 @@
 <?php
 $servername = "mysql.rideshare.hamwebs.com";
 $username = "waikato";
-$password = "@bGYpRSE5@";
+$password = "[REDACTED]";
 $dbname = "rideshare_hamwebs";
 
 try {
