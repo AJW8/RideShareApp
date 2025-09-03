@@ -1,7 +1,7 @@
 <!-- Callback -->
 <?php
-$app_id = "2766679033615065";
-$app_secret = "43194151a578c4a0dc4db4818c1cbf8e";
+$app_id = "";
+$app_secret = "";
 $redirect_uri = urlencode("http://localhost/callback.php");    
 // Get code value
 $code = $_GET['code'];
